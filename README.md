@@ -52,5 +52,5 @@ We use a dataset that contains historical gold prices, typically including the f
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/gold-price-prediction-rf.git
+git clone https://github.com/rohitrntiwari/gold-price-prediction-rf.git
 cd gold-price-prediction-rf
